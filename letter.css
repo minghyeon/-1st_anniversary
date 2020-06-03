@@ -1,0 +1,24 @@
+html, body{
+    background-color: white;
+    font-family: 'Dovemayo-Medium';
+}
+
+div{
+    line-height: 3vw;
+    font-size: 2vw;
+    text-align: center;
+}
+
+p{
+    display: inline;
+}
+
+.pink{
+    color: rgb(254, 127, 156);
+}
+
+#line1{
+    margin-top: 150px;
+}
+
+@font-face { font-family: 'Dovemayo-Medium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Dovemayo-Medium.woff') format('woff'); font-weight: normal; font-style: normal; }
